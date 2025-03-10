@@ -44,7 +44,7 @@ This repository contains various financial and sales performance reports related
 For any inquiries or collaboration, feel free to reach out:  
 
 - 📧 Email: rupalidhnd@gmail.com
-- 🔗 LinkedIn: (https://www.linkedin.com/in/rupali-dhande/)  
+- 🔗 LinkedIn: (https://www.linkedin.com/in/rupali-barhate/)  
 - 🐙 GitHub: (https://github.com/rupadhande)  
  
 
